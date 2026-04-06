@@ -1,8 +1,8 @@
 # Manohar Pragada
 
-MS Business Analytics @ UT Dallas · Graduating May 2025
+Gen AI Engineer at Skyovi · MS in Business Analytics and Artificial Intelligence, UT Dallas (Dec 2024)
 
-I build things at the intersection of data and product. ML pipelines, analytics tools, systems that actually ship. Most of my work is in Python and I care about making things interpretable, not just accurate.
+I build things at the intersection of data and product. Right now that means GenAI systems at Skyovi. Before that it was ML pipelines, acoustic analysis tools, and econometric models. Most of my work is in Python and I care about making things that actually work in production, not just in a notebook.
 
 ---
 
@@ -20,14 +20,14 @@ I build things at the intersection of data and product. ML pipelines, analytics 
 
 ### Stack
 
-Python · SQL · R · scikit-learn · FastAPI · librosa · Pandas · NumPy · Jupyter
+Python · SQL · R · LLMs · scikit-learn · FastAPI · librosa · Pandas · NumPy · Jupyter
 
 ---
 
 ### Background
 
-I came into data science through economics. My undergrad was heavy on econometrics and time series, which means I think carefully about causality and not just correlation. That background shapes how I approach every project.
+I came into AI and data science through economics. My degree was heavy on econometrics and time series, which means I think carefully about causality and not just correlation. That background shapes how I approach every project whether it is a GenAI system or a churn model.
 
-Looking for full-time roles in data science, ML engineering, or analytics starting summer 2025.
+Open to connecting on interesting problems in AI and data.
 
 📬 manohar.pragada@utdallas.edu · [LinkedIn](https://www.linkedin.com/in/manoharpragada)
